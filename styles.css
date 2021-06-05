@@ -15,10 +15,10 @@ body {
   flex-direction: row;
 }
 
-.img {
+img {
   margin-top: 10%;
   flex-shrink: 1;
-  width: 30%;
+  width: 70%;
 }
 
 .ErrorBlock {
@@ -63,8 +63,8 @@ body {
   .BlockDesc {
     font-size: 2rem;
   }
-  .img {
-    width: 50%;
+  img {
+    width: 70%;
   }
 }
 
@@ -73,8 +73,8 @@ body {
     display: flex;
     flex-direction: column;
   }
-  .img{
-    width: 10%
+  img{
+    width: 70%
   }
   .ErrorBlock {
     margin-top: 1%;
