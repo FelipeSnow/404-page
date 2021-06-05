@@ -18,7 +18,7 @@ body {
 .img {
   margin-top: 10%;
   flex-shrink: 1;
-  width: 70%;
+  width: 50%;
 }
 
 .ErrorBlock {
@@ -54,6 +54,8 @@ body {
   .title {
     font-size: 2rem;
   }
+  
+  
 
   .BlockTitle {
     font-size: 2rem;
@@ -62,7 +64,7 @@ body {
     font-size: 2rem;
   }
   .img {
-    width: 100%;
+    width: 70%;
   }
 }
 
@@ -70,6 +72,9 @@ body {
   .main {
     display: flex;
     flex-direction: column;
+  }
+  .img{
+    width: 30%
   }
   .ErrorBlock {
     margin-top: 1%;
